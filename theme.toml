@@ -1,0 +1,17 @@
+name = "Papaya"
+license = "MIT"
+licenselink = "https://github.com/plopcas/papaya/blob/master/LICENSE"
+description = "Minimalist theme with social and analytics support"
+homepage = "https://github.com/plopcas/papaya/"
+tags = ["blog"]
+features = ["minimalist", "social", "analytics"]
+min_version = "0.41"
+
+[author]
+  name = "Pedro Lopez"
+  homepage = "https://retrolog.io"
+
+[original]
+  author = "Zachary Wade Betz"
+  homepage = "https://zwbetz.com/make-a-hugo-blog-from-scratch/"
+  repo = "https://github.com/zwbetz-gh/make-a-hugo-blog-from-scratch"
