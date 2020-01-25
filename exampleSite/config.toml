@@ -1,0 +1,27 @@
+baseURL = "https://example.com"
+title = "Papaya"
+
+theme = "papaya"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "info"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    pre = "pen-tool"
+    url = "/posts/"
+    weight = 2
+
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  authorName = "John Doe"
